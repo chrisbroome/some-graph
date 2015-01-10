@@ -1,0 +1,27 @@
+{
+  "name": "some-graph",
+  "version": "0.0.1",
+  "description": "Basic graph classes for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Broome",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisbroome/some-graph.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "graph"
+  ],
+  "bugs": {
+    "url": "https://github.com/chrisbroome/some-graph/issues"
+  },
+  "homepage": "https://github.com/chrisbroome/some-graph"
+}
