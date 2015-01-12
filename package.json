@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/chrisbroome/some-graph/issues"
   },
-  "homepage": "https://github.com/chrisbroome/some-graph"
+  "homepage": "https://github.com/chrisbroome/some-graph",
+  "dependencies": {
+    "lodash": "^2.4.1"
+  }
 }
