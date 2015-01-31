@@ -1,2 +1,8 @@
-node_modules
+# libraries
+/node_modules
+
+# IDE files
 .idea
+
+# OS specific files
+.DS_Store
