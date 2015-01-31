@@ -4,6 +4,7 @@
   "description": "Basic graph classes for javascript",
   "main": "index.js",
   "scripts": {
+    "doc": "./node_modules/.bin/jsdoc -d ./out/doc -P ./package.json -R ./README.md -r ./index.js ./lib/",
     "test": "mocha -R spec -u exports -- ./test/graph.js"
   },
   "author": "Chris Broome",
@@ -26,5 +27,8 @@
   "homepage": "https://github.com/chrisbroome/some-graph",
   "dependencies": {
     "lodash": "^3.0.0"
+  },
+  "devDependencies": {
+    "jsdoc": "^3.3.0-beta1"
   }
 }
