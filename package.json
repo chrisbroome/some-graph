@@ -26,9 +26,9 @@
   },
   "homepage": "https://github.com/chrisbroome/some-graph",
   "dependencies": {
-    "lodash": "^3.0.0"
+    "lodash": "~3.8.0"
   },
   "devDependencies": {
-    "jsdoc": "^3.3.0-beta1"
+    "jsdoc": "~3.3.0-beta3"
   }
 }
